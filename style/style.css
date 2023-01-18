@@ -47,8 +47,9 @@
 .match_view {
     background-color: black;
     margin-left: 100px;
-    padding: 30px;
+    padding: 15px;
     border-radius: 5px;
+    height: 200px;
 }
 
 .match_view a {
@@ -63,4 +64,12 @@
     color: black;
     font-weight: 700;
     transition: all .5s;
+}
+
+.blogs {
+    color: black;
+    gap: 10;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin-left: 20px;
 }
