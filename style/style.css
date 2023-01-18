@@ -26,3 +26,13 @@
     font-size: 10px;
     padding-bottom: 40px;
 }
+
+.c_text button {
+    padding: 10px;
+    border-radius: 5px;
+    background-color: red;
+}
+
+.c_img {
+    width: 50%;
+}
