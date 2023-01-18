@@ -82,3 +82,12 @@
     width: 312px;
     border-radius: 10px;
 }
+
+.blog button {
+    margin: 5px;
+}
+
+.duration {
+    display: flex;
+    align-items: baseline;
+}
