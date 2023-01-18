@@ -45,4 +45,6 @@
 
 .match_view {
     margin-left: 100px;
+    display: grid;
+    border: 3px solid red;
 }
