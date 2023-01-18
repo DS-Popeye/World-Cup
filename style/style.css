@@ -11,4 +11,11 @@
 .c_text {
     width: 50%;
     color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+.c_text h1 {
+    font-size: 50px;
+    font-weight: 700;
+    margin: 0;
 }
