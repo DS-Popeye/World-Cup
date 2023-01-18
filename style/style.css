@@ -41,6 +41,7 @@
 
 .match {
     display: flex;
+    gap: 10;
 }
 
 .match_view {
