@@ -1,5 +1,14 @@
 .container {
+    display: flex;
+    align-items: center;
     border: 2px solid red;
     background-color: black;
+
+    padding: 0 100px;
+    margin: 0 100px;
+}
+
+.c_text {
+
     color: white;
 }
