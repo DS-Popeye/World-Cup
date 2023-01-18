@@ -71,5 +71,14 @@
     gap: 10;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    margin-left: 20px;
+    margin-left: 15px;
+    margin-right: 50px;
+}
+
+.blog {
+    border: 1px solid gray;
+    margin: 0 5px;
+    margin-bottom: 10px;
+    width: 312px;
+    border-radius: 10px;
 }
