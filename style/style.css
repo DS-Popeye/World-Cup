@@ -37,3 +37,7 @@
 .c_img {
     width: 50%;
 }
+
+.match {
+    display: flex;
+}
