@@ -1,3 +1,7 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
 .container {
     display: flex;
     align-items: center;
@@ -84,12 +88,13 @@
 }
 
 .blog p {
-    margin-left: 10px;
+    padding: 0;
+    margin: 5px 5px 10px 10px;
 }
 
 .blog button {
-    margin: 10px;
-
+    margin-left: 10px;
+    margin-bottom: 0;
 }
 
 .duration {
