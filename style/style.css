@@ -87,9 +87,10 @@
     border-radius: 10px;
 }
 
-.blog p {
+.blog>p {
     padding: 0;
-    margin: 5px 5px 10px 10px;
+    margin: 10px 5px 5px 10px;
+    font-weight: 700;
 }
 
 .blog button {
@@ -103,6 +104,10 @@
 }
 
 .duration i {
-    margin-left: 20px;
+    margin-left: 10px;
     margin-right: 5px;
+}
+
+.duration>p {
+    margin-right: 20px;
 }
