@@ -2,6 +2,11 @@
     font-family: 'Poppins', sans-serif;
 }
 
+body {
+    margin: 0;
+    padding: 0;
+}
+
 .container {
     display: flex;
     align-items: center;
@@ -110,4 +115,14 @@
 
 .duration>p {
     margin-right: 20px;
+}
+
+/* Footer section */
+
+footer {
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 50px 0;
+    text-align: center;
 }
